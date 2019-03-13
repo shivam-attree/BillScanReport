@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <Button
+        android:layout_width="240dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="140dp"
+        android:layout_marginLeft="90dp"
+        android:text="Scan"
+        android:id="@+id/scan"
+        android:onClick="scanQRCode"/>
+    <Button
+        android:layout_width="240dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="90dp"
+        android:text="Scan Receipt"
+        android:id="@+id/scanbill"
+        android:onClick="scanBill"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewAddress"
+        android:text="Expense made: "
+        android:layout_marginLeft="160dp"
+        android:layout_marginTop="50dp"/>
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/batteryfinal"
+        android:id="@+id/imageView"
+        android:layout_marginLeft="150dp"
+        >
+
+    </ImageView>
+
+
+
+</LinearLayout>

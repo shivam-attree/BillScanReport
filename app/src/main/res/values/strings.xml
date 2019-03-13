@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="title_home">Scan</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">I wish</string>
+    <string name="title_setting">Logout</string>
+
+    <string name="learn_inves">
+        Learn Investment basics
+    </string>
+    <string name="create_a_ch">
+        Create a challenge.
+    </string>
+    <string name="market_stud">
+        PortfolioMaster
+    </string>
+    <string name="open">
+        Open
+    </string>
+    <string name="close">
+        Close
+    </string>
+    <string name="username">
+        Username
+    </string>
+    <string name="password">
+        Password
+    </string>
+    <string name="fname">
+        First name
+    </string>
+    <string name="lname">
+        Last name
+    </string>
+    <string name="cpassword">Confirm Password</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+    <string name="first_welcome">Thank you for choosing Snapney.</string>
+    <string name="introduction">To personalize this app, you may enter your name here. You can change it at any time, using the settings menu.</string>
+    <string name="start">Enter!</string>
+    <string name="this_month">Money spent this month: </string>
+    <string name="last_month">Money spent last month:</string>
+    <string name="name_change">Change name</string>
+    <string name="apply">Confirm</string>
+    <string name="delete">Clear storage</string>
+    <string name="overview">Overview</string>
+    <string name="camera">Scan</string>
+    <string name="choose">Choose Picture</string>
+    <string name="accessExternal">Accessing the external storage is needed for loading pictures from the gallery.</string>
+    <string name="spent_money">Spent bucks: </string>
+    <string name="currency">$</string>
+    <string name="use_menu">Please use the inapp-menu for navigation when possible.</string>
+    <string name="saved">Changes saved.</string>
+    <string name="cleared">Cleared storage</string>
+    <string name="no_picture_chosen">No picture chosen!</string>
+    <string name="detector">Detector dependencies are not yet available.</string>
+    <string name="found">Found value:</string>
+    <string name="change_value">You may now correct this value:</string>
+    <string name="cancel">Cancel</string>
+    <string name="addition_error">Failed to add the new value.</string>
+    <string name="sn_photo">Tap to choose value. Pinch to zoom.</string>
+</resources>
