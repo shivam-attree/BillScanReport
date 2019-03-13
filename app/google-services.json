@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "858267307457",
+    "firebase_url": "https://canibuy-3e41c.firebaseio.com",
+    "project_id": "canibuy-3e41c",
+    "storage_bucket": "canibuy-3e41c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858267307457:android:3093eec41b4a78c4",
+        "android_client_info": {
+          "package_name": "com.example.canibuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858267307457-v0d7oep6higri03d10ol7ho9uekrlnj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.canibuy",
+            "certificate_hash": "eb59d995e2c18180c7551affe995438a68417468"
+          }
+        },
+        {
+          "client_id": "858267307457-rmbk6t4o7iejqc3a9g7trnem9k6qn5gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe2J8FtrQY3PzGyF0yjk21t06mYu1UqTg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858267307457-rmbk6t4o7iejqc3a9g7trnem9k6qn5gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
